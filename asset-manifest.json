@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/shardulkapse/Netflix-Clone.git/static/css/main.6ca6483f.chunk.css",
+    "main.js": "/shardulkapse/Netflix-Clone.git/static/js/main.aae9af3d.chunk.js",
+    "main.js.map": "/shardulkapse/Netflix-Clone.git/static/js/main.aae9af3d.chunk.js.map",
+    "runtime-main.js": "/shardulkapse/Netflix-Clone.git/static/js/runtime-main.4f67d66e.js",
+    "runtime-main.js.map": "/shardulkapse/Netflix-Clone.git/static/js/runtime-main.4f67d66e.js.map",
+    "static/js/2.a88362f9.chunk.js": "/shardulkapse/Netflix-Clone.git/static/js/2.a88362f9.chunk.js",
+    "static/js/2.a88362f9.chunk.js.map": "/shardulkapse/Netflix-Clone.git/static/js/2.a88362f9.chunk.js.map",
+    "index.html": "/shardulkapse/Netflix-Clone.git/index.html",
+    "static/css/main.6ca6483f.chunk.css.map": "/shardulkapse/Netflix-Clone.git/static/css/main.6ca6483f.chunk.css.map",
+    "static/js/2.a88362f9.chunk.js.LICENSE.txt": "/shardulkapse/Netflix-Clone.git/static/js/2.a88362f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f67d66e.js",
+    "static/js/2.a88362f9.chunk.js",
+    "static/css/main.6ca6483f.chunk.css",
+    "static/js/main.aae9af3d.chunk.js"
+  ]
+}
